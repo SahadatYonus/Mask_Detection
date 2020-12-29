@@ -8,4 +8,4 @@ The model is a mask detection model. I used Convolutional Nueral Networks (CNN) 
 ## Dataset 
 During my research for a dataset, I found many of them in Kaggle. However, there was one with 7553 images with two classes **with_mask** and **without_mask**. You can find the dataset [here](https://www.kaggle.com/omkargurav/face-mask-dataset).
 
-[![SC2 Video](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=--b-9HrKK6w)
+[![SC2 Video](doc/SC2_youtube.gif)](https://youtu.be/PFZsHovjelE)
