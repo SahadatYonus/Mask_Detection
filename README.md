@@ -10,4 +10,4 @@ During my research for a dataset, I found many of them in Kaggle. However, there
 
 
 ## Demo
-![](mask_test.gif)
+![](mask_test.gif =100x200)
