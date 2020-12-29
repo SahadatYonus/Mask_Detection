@@ -10,4 +10,4 @@ During my research for a dataset, I found many of them in Kaggle. However, there
 
 
 ## Demo
-![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](mask_test.gif)
